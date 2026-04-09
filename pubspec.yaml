@@ -1,0 +1,27 @@
+name: fitness_app
+description: Fitness tracking app with mood, workouts, and nutrition screens.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # To add custom fonts, uncomment and configure:
+  # fonts:
+  #   - family: SF Pro Display
+  #     fonts:
+  #       - asset: fonts/SFProDisplay-Regular.ttf
+  #       - asset: fonts/SFProDisplay-Bold.ttf
+  #         weight: 700
