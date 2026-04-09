@@ -1,3 +1,6 @@
+![Screenshot_20260408_232856](https://github.com/user-attachments/assets/fe99dcfb-cd7a-4a2e-9278-faad3716a4fe)
+
+
 # Fitness App — Flutter UI Implementation
 
 Pixel-perfect Flutter implementation of the Figma design.  
