@@ -8,7 +8,7 @@
 
 # Fitness App — Flutter UI Implementation
 
-# APK Link : 
+# APK Link : https://github.com/NomanKhan-tech/flutter_task/blob/master/build/app/outputs/flutter-apk/app-debug.apk
 
 Pixel-perfect Flutter implementation of the Figma design.  
 Dark-themed fitness tracking app with 4 main screens.
